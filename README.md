@@ -108,3 +108,5 @@ Star the repo if you find it useful!
 
 **Made for technical superintendents, fleet managers, marine engineers, ship managers, and maritime IT teams.**  
 Let's expand accessible, transparent tools for keeping vessels safe and well-maintained while recognizing the proven commercial platforms that power most of the world fleet.
+# Awesome-Simulation-n-Digital-Twin-Platform
+
